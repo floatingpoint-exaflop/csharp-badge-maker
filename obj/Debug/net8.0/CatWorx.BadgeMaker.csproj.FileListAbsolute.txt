@@ -1,0 +1,14 @@
+/Users/timothyscallon/MoarCode/C#/CatWorx.BadgeMaker/bin/Debug/net8.0/CatWorx.BadgeMaker
+/Users/timothyscallon/MoarCode/C#/CatWorx.BadgeMaker/bin/Debug/net8.0/CatWorx.BadgeMaker.deps.json
+/Users/timothyscallon/MoarCode/C#/CatWorx.BadgeMaker/bin/Debug/net8.0/CatWorx.BadgeMaker.runtimeconfig.json
+/Users/timothyscallon/MoarCode/C#/CatWorx.BadgeMaker/bin/Debug/net8.0/CatWorx.BadgeMaker.dll
+/Users/timothyscallon/MoarCode/C#/CatWorx.BadgeMaker/bin/Debug/net8.0/CatWorx.BadgeMaker.pdb
+/Users/timothyscallon/MoarCode/C#/CatWorx.BadgeMaker/obj/Debug/net8.0/CatWorx.BadgeMaker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/timothyscallon/MoarCode/C#/CatWorx.BadgeMaker/obj/Debug/net8.0/CatWorx.BadgeMaker.AssemblyInfoInputs.cache
+/Users/timothyscallon/MoarCode/C#/CatWorx.BadgeMaker/obj/Debug/net8.0/CatWorx.BadgeMaker.AssemblyInfo.cs
+/Users/timothyscallon/MoarCode/C#/CatWorx.BadgeMaker/obj/Debug/net8.0/CatWorx.BadgeMaker.csproj.CoreCompileInputs.cache
+/Users/timothyscallon/MoarCode/C#/CatWorx.BadgeMaker/obj/Debug/net8.0/CatWorx.BadgeMaker.dll
+/Users/timothyscallon/MoarCode/C#/CatWorx.BadgeMaker/obj/Debug/net8.0/refint/CatWorx.BadgeMaker.dll
+/Users/timothyscallon/MoarCode/C#/CatWorx.BadgeMaker/obj/Debug/net8.0/CatWorx.BadgeMaker.pdb
+/Users/timothyscallon/MoarCode/C#/CatWorx.BadgeMaker/obj/Debug/net8.0/CatWorx.BadgeMaker.genruntimeconfig.cache
+/Users/timothyscallon/MoarCode/C#/CatWorx.BadgeMaker/obj/Debug/net8.0/ref/CatWorx.BadgeMaker.dll
